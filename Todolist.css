@@ -2,7 +2,7 @@ body{
         background-color: aliceblue;
 }
 .delete {
-	display: none;
+        display: none;
         
 }
 .row{
@@ -18,20 +18,20 @@ body{
         border-radius: 10px;
 }
 ul {
-	text-align: left;
-	margin-top: 20px;
+        text-align: left;
+        margin-top: 20px;
 }
 li {
         font-family: cursive;
-	list-style: none;
-	padding: 10px 20px;
-	color: black;
-	text-transform: capitalize;
-	font-weight: 600;
-	border: 2px solid #025f70;
-	border-radius: 5px;
-	margin-bottom: 10px;
-	background:powderblue;
+        list-style: none;
+        padding: 10px 20px;
+        color: black;
+        text-transform: capitalize;
+        font-weight: 600;
+        border: 2px solid #025f70;
+        border-radius: 5px;
+        margin-bottom: 10px;
+        background:powderblue;
         transition: 1s;
 
 }
@@ -52,12 +52,12 @@ li:hover{
 }
 li > button {
         cursor: pointer;
-	font-weight: normal;
-	background: none;
-	border: none;
-	float: right;
-	color:black;
-	font-weight: 800;
+        font-weight: normal;
+        background: none;
+        border: none;
+        float: right;
+        color:black;
+        font-weight: 800;
         justify-content: space-between;
         transition: 1s;
 }
